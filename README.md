@@ -6,7 +6,8 @@ Cortex (also known internally as Vardex) is an advanced, AI-powered knowledge an
 
 - **Document Ingestion**: Upload large documents (up to 100MB) which are processed and chunked in the background.
 - **RAG Powered Chat**: Chat directly with your data. The system retrieves relevant context from your uploaded files and synthesizes answers using the Gemini 2.5 Flash model.
-- **Dynamic Chart Generation**: Automatically generate metrics and visualizations (using Recharts) directly from chat when asking about statistics, trends, or numbers in your data.
+- **Dynamic Chart Generation**: Automatically generate metrics and visualizations (using Recharts) 
+directly from chat when asking about statistics, trends, or numbers in your data.
 - **File Scoping**: Restrict your queries to specific uploaded documents for highly targeted intelligence.
 - **Modern UI**: A responsive, animated, and dynamic frontend built with Next.js 16, React 19, Framer Motion, and TailwindCSS v4.
 
